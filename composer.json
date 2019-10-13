@@ -1,6 +1,7 @@
 {
     "require": {
         "ext-gd": "*",
-        "ext-soap": "*"
+        "ext-soap": "*",
+        "csanquer/pdo-service-provider": "~1.1dev"
     }
 }
